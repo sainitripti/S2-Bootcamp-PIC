@@ -1,0 +1,7 @@
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\bin\Debug\Demo.exe.config
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\bin\Debug\Demo.exe
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\bin\Debug\Demo.pdb
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\obj\Debug\Demo.exe
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Demo\obj\Debug\Demo.pdb

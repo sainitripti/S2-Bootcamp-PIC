@@ -1,0 +1,5 @@
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\DataValidatorLib\bin\Debug\DataValidatorLib.dll
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\DataValidatorLib\bin\Debug\DataValidatorLib.pdb
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\DataValidatorLib\obj\Debug\DataValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\DataValidatorLib\obj\Debug\DataValidatorLib.dll
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\DataValidatorLib\obj\Debug\DataValidatorLib.pdb

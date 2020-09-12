@@ -1,0 +1,10 @@
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\bin\Debug\Excel.exe.config
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\bin\Debug\Excel.exe
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\bin\Debug\Excel.pdb
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\bin\Debug\CalculatorLib.dll
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\bin\Debug\CalculatorLib.pdb
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\obj\Debug\Excel.csproj.CopyComplete
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\obj\Debug\Excel.exe
+C:\Users\Tripti Saini\source\repos\S2-Bootcamp-PIC\Excel\obj\Debug\Excel.pdb
